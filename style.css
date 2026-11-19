@@ -1,0 +1,22 @@
+.hero{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    background:linear-gradient(135deg,#232526,#414345);
+    color:white;
+}
+
+.btn-primary{
+    background:#00adb5;
+    border:none;
+}
+
+.btn-primary:hover{
+    background:#008891;
+}
+
+.navbar{
+    background:#222831 !important;
+}
